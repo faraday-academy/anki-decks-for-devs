@@ -1,0 +1,293 @@
+{
+    "deck_name": "Computer Science Level 1",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "Algorithm",
+            "back": "A step-by-step procedure for solving a problem or accomplishing some end.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Binary",
+            "back": "A way of representing information using only two options.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Bit",
+            "back": "The smallest unit of data in computing represented by a 1 in binary.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Boolean",
+            "back": "A data type that has two possible values (usually denoted true and false).",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Bug",
+            "back": "An error in a program that prevents the program from running as expected.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Byte",
+            "back": "A group of binary digits or bits (usually eight) operated on as a unit.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Cache",
+            "back": "A collection of data duplicating original values stored elsewhere or computed earlier, where the original data is expensive to fetch or compute relative to reading the cache.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Compiler",
+            "back": "A program that translates code written in a high-level programming language to machine code.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Data Structure",
+            "back": "A particular way of organizing data in a computer so that it can be used effectively.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Database",
+            "back": "An organized collection of data, generally stored and accessed electronically from a computer system.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Debugging",
+            "back": "The process of finding and fixing errors in a computer program.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Function",
+            "back": "A piece of code that can be called over and over.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "IDE",
+            "back": "A software application that provides comprehensive facilities to computer programmers for software development.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Integer",
+            "back": "A whole number; a number that is not a fraction.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Loop",
+            "back": "A sequence of instructions that is continually repeated until a certain condition is reached.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Object",
+            "back": "A self-contained entity that consists of both data and procedures to manipulate the data.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Pointer",
+            "back": "A programming language object that stores the memory address of another value located in computer memory.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Recursion",
+            "back": "A programming technique where a function calls itself.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Software",
+            "back": "A collection of instructions that enable the user to interact with a computer, its hardware, or perform tasks.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Syntax",
+            "back": "The set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a language.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Variable",
+            "back": "A storage location and an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Debugging",
+            "back": "The process of finding and fixing issues within a computer program.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Function",
+            "back": "A block of organized, reusable code that is used to perform a single, related action.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Conditional",
+            "back": "A feature of a programming language, which performs different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Array",
+            "back": "A data structure consisting of a collection of elements, each identified by at least one array index or key.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Object-Oriented Programming (OOP)",
+            "back": "A programming paradigm based on the concept of 'objects', which can contain data, in the form of fields, and code, in the form of procedures.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Class",
+            "back": "A blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods).",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Inheritance",
+            "back": "A mechanism in which one class acquires the properties (methods and fields) of another class.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Interface",
+            "back": "A shared boundary across which two separate components of a computer system exchange information.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Encapsulation",
+            "back": "The bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Polymorphism",
+            "back": "The provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Algorithm Complexity",
+            "back": "A measure of the amount of time and/or space required by an algorithm for an input of a given size (n).",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Recursion",
+            "back": "The process in which a function calls itself directly or indirectly.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Syntax",
+            "back": "The set of rules that defines the combinations of symbols that are considered to be correctly structured programs in that language.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Parameter",
+            "back": "A named variable passed into a function. Parameter variables are used to import arguments into functions.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Argument",
+            "back": "The actual value that is passed to the function (as input), when it is called.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Library",
+            "back": "A collection of non-volatile resources used by computer programs, often to develop software.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Source Code",
+            "back": "Any collection of code, possibly with comments, written using a human-readable programming language, usually as plain text.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Integrated Development Environment (IDE)",
+            "back": "A software application that provides comprehensive facilities to computer programmers for software development.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Execution",
+            "back": "The process by which a computer or virtual machine performs the instructions of a computer program.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Compilation",
+            "back": "The process in which source code is translated to machine code.",
+            "tags": [
+                "basic_cs"
+            ]
+        }
+    ]
+}
