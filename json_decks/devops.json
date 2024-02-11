@@ -1,0 +1,126 @@
+{
+    "deck_name": "DevOps Essentials",
+    "deck_id": 6789012345,
+    "cards": [
+        {
+            "front": "Terraform",
+            "back": "A tool for building, changing, and versioning infrastructure efficiently using infrastructure as code.",
+            "tags": [
+                "devops",
+                "infrastructure"
+            ]
+        },
+        {
+            "front": "Terraform Provider",
+            "back": "Plugins that Terraform uses to interact with cloud providers, SaaS providers, and other APIs.",
+            "tags": [
+                "devops",
+                "terraform"
+            ]
+        },
+        {
+            "front": "GitOps",
+            "back": "A set of practices that leverages Git workflows to manage infrastructure and application configurations.",
+            "tags": [
+                "devops",
+                "git"
+            ]
+        },
+        {
+            "front": "Container",
+            "back": "A lightweight, standalone, executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings.",
+            "tags": [
+                "devops",
+                "containers"
+            ]
+        },
+        {
+            "front": "Docker",
+            "back": "A platform that enables developers to build and package applications into containers, ensuring they work seamlessly in any environment.",
+            "tags": [
+                "devops",
+                "docker"
+            ]
+        },
+        {
+            "front": "Kubernetes",
+            "back": "An open-source system for automating deployment, scaling, and management of containerized applications.",
+            "tags": [
+                "devops",
+                "kubernetes"
+            ]
+        },
+        {
+            "front": "Pods",
+            "back": "The smallest deployable units created and managed by Kubernetes, usually containing one or more containers that are deployed together.",
+            "tags": [
+                "devops",
+                "kubernetes"
+            ]
+        },
+        {
+            "front": "Autoscaling",
+            "back": "The process of automatically adjusting the number of computing resources to meet demand.",
+            "tags": [
+                "devops",
+                "autoscaling"
+            ]
+        },
+        {
+            "front": "Horizontal Scaling",
+            "back": "Increasing the number of nodes in a cluster to handle more load, akin to adding more machines to a system.",
+            "tags": [
+                "devops",
+                "scaling"
+            ]
+        },
+        {
+            "front": "Vertical Scaling",
+            "back": "Increasing the capacity of existing nodes, like upgrading the CPU or memory of current machines.",
+            "tags": [
+                "devops",
+                "scaling"
+            ]
+        },
+        {
+            "front": "Prometheus",
+            "back": "An open-source monitoring and alerting toolkit widely used for its simplicity and reliability.",
+            "tags": [
+                "devops",
+                "monitoring"
+            ]
+        },
+        {
+            "front": "Grafana",
+            "back": "An open-source analytics and interactive visualization web application that provides charts, graphs, and alerts for the web when connected to supported data sources.",
+            "tags": [
+                "devops",
+                "visualization"
+            ]
+        },
+        {
+            "front": "Load Balancer",
+            "back": "A device that distributes network or application traffic across a number of servers, increasing the capacity and reliability of applications.",
+            "tags": [
+                "devops",
+                "networking"
+            ]
+        },
+        {
+            "front": "Ingress",
+            "back": "An API object that manages external access to the services in a Kubernetes cluster, typically HTTP.",
+            "tags": [
+                "devops",
+                "kubernetes"
+            ]
+        },
+        {
+            "front": "Volume",
+            "back": "A directory containing data, accessible to the containers in a pod, used to store application data and state.",
+            "tags": [
+                "devops",
+                "storage"
+            ]
+        }
+    ]
+}
