@@ -121,6 +121,78 @@
                 "devops",
                 "storage"
             ]
+        },
+        {
+            "front": "Secret",
+            "back": "An object used to store sensitive information, such as passwords, OAuth tokens, and SSH keys, in Kubernetes.",
+            "tags": [
+                "devops",
+                "security"
+            ]
+        },
+        {
+            "front": "ConfigMap",
+            "back": "An API object used to store non-sensitive data in key-value pairs, which can be consumed by pods or used to configure system components.",
+            "tags": [
+                "devops",
+                "configuration"
+            ]
+        },
+        {
+            "front": "Helm",
+            "back": "A package manager for Kubernetes that helps you define, install, and upgrade even the most complex Kubernetes applications.",
+            "tags": [
+                "devops",
+                "kubernetes"
+            ]
+        },
+        {
+            "front": "CI/CD",
+            "back": "A set of practices that automates the process of integrating code changes and deploying them to production.",
+            "tags": [
+                "devops",
+                "cicd"
+            ]
+        },
+        {
+            "front": "Jenkins",
+            "back": "An open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.",
+            "tags": [
+                "devops",
+                "cicd"
+            ]
+        },
+        {
+            "front": "Ansible",
+            "back": "An open-source automation tool that automates software provisioning, configuration management, and application deployment.",
+            "tags": [
+                "devops",
+                "automation"
+            ]
+        },
+        {
+            "front": "Puppet",
+            "back": "An open-source configuration management tool that helps you define and enforce the state of your infrastructure.",
+            "tags": [
+                "devops",
+                "automation"
+            ]
+        },
+        {
+            "front": "Chef",
+            "back": "An open-source configuration management tool that helps you define and enforce the state of your infrastructure.",
+            "tags": [
+                "devops",
+                "automation"
+            ]
+        },
+        {
+            "front": "SaltStack",
+            "back": "An open-source configuration management tool that helps you define and enforce the state of your infrastructure.",
+            "tags": [
+                "devops",
+                "automation"
+            ]
         }
     ]
 }

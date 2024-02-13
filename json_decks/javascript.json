@@ -1,0 +1,188 @@
+{
+    "deck_name": "JavaScript Basics",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "Variable",
+            "back": "A named container for storing data. In JavaScript, variables are declared using the 'var', 'let', or 'const' keyword.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Function",
+            "back": "A reusable block of code that performs a specific task. Functions in JavaScript can be declared using the 'function' keyword or as arrow functions.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Array",
+            "back": "An ordered collection of values. In JavaScript, arrays can hold values of different types and can be accessed using zero-based indexing.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Object",
+            "back": "A collection of key-value pairs. Objects in JavaScript are used to represent complex data structures and can be accessed using dot notation or bracket notation.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Conditional Statement",
+            "back": "A statement that performs different actions based on a condition. In JavaScript, conditional statements include 'if', 'else if', and 'else'.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Loop",
+            "back": "A programming construct that repeats a block of code until a certain condition is met. In JavaScript, common types of loops are 'for', 'while', and 'do-while'.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "String",
+            "back": "A sequence of characters. In JavaScript, strings are enclosed in single quotes (''), double quotes (\"\"), or backticks (``).",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Number",
+            "back": "A numeric data type in JavaScript. Numbers can be integers or floating-point values.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Boolean",
+            "back": "A data type that represents either 'true' or 'false'. Boolean values are often used in conditional statements and logical operations.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Operator",
+            "back": "A symbol that performs an operation on one or more operands. JavaScript has various types of operators, such as arithmetic, assignment, comparison, and logical operators.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "DOM",
+            "back": "The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the structure of a web page and allows JavaScript to interact with it.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Event",
+            "back": "An action or occurrence that happens in the browser, such as a button click or page load. JavaScript can listen for and respond to events.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Callback",
+            "back": "A function that is passed as an argument to another function and is executed later. Callbacks are commonly used in asynchronous programming.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Promise",
+            "back": "An object that represents the eventual completion or failure of an asynchronous operation. Promises are used to handle asynchronous code in a more readable and manageable way.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Arrow Function",
+            "back": "A concise way to write functions in JavaScript using the '=>` syntax. Arrow functions are often used for shorter and more readable code.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Module",
+            "back": "A self-contained unit of code that can be reused and imported into other modules. JavaScript modules help organize and modularize code.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Async/Await",
+            "back": "A syntax for writing asynchronous code in a more synchronous style. 'async' functions return Promises, and 'await' is used to pause the execution until a Promise is resolved or rejected.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "JSON",
+            "back": "JavaScript Object Notation (JSON) is a lightweight data interchange format. It is commonly used for transmitting data between a server and a web application.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Prototype",
+            "back": "An object from which other objects inherit properties. In JavaScript, objects can have a prototype object, and properties can be accessed through prototype chaining.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Closure",
+            "back": "A function that has access to its own scope, the scope of the outer function, and the global scope. Closures are often used to create private variables and encapsulate functionality.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Error Handling",
+            "back": "The process of catching and handling errors in a program. JavaScript provides try-catch blocks for handling exceptions and preventing program crashes.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "AJAX",
+            "back": "Asynchronous JavaScript and XML (AJAX) is a technique for making asynchronous HTTP requests from a web page. It allows data to be loaded in the background without refreshing the entire page.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "ES6",
+            "back": "ECMAScript 6 (ES6) is the sixth major version of the ECMAScript language specification, which JavaScript is based on. ES6 introduced many new features and syntax enhancements.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Callback Hell",
+            "back": "A situation where multiple nested callbacks make the code difficult to read and maintain. It often occurs in asynchronous JavaScript code with multiple dependent operations.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Type Coercion",
+            "back": "The automatic conversion of one data type to another in JavaScript. JavaScript performs type coercion in certain situations, which can lead to unexpected behavior.",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "front": "Strict Mode",
+            "back": "A mode in JavaScript that enables stricter parsing and error handling. It helps catch common coding mistakes and prevents the use of certain error-prone features.",
+            "tags": [
+                "javascript"
+            ]
+        }
+    ]
+}

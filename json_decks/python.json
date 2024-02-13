@@ -1,0 +1,206 @@
+{
+    "deck_name": "Python Basics",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "Variable",
+            "back": "A named container that holds a value. In Python, variables are dynamically typed and can hold any type of value.",
+            "tags": [
+                "python",
+                "variables"
+            ]
+        },
+        {
+            "front": "Function",
+            "back": "A named block of code that performs a specific task. Functions in Python are defined using the `def` keyword.",
+            "tags": [
+                "python",
+                "functions"
+            ]
+        },
+        {
+            "front": "List",
+            "back": "An ordered collection of items. Lists in Python are mutable and can contain elements of different types.",
+            "tags": [
+                "python",
+                "lists"
+            ]
+        },
+        {
+            "front": "Tuple",
+            "back": "An ordered collection of items, similar to a list. Tuples in Python are immutable and can contain elements of different types.",
+            "tags": [
+                "python",
+                "tuples"
+            ]
+        },
+        {
+            "front": "Dictionary",
+            "back": "A collection of key-value pairs. Dictionaries in Python are unordered, mutable, and can contain elements of different types.",
+            "tags": [
+                "python",
+                "dictionaries"
+            ]
+        },
+        {
+            "front": "String",
+            "back": "A sequence of characters. Strings in Python are immutable and can be enclosed in single quotes ('') or double quotes (\"\").",
+            "tags": [
+                "python",
+                "strings"
+            ]
+        },
+        {
+            "front": "Boolean",
+            "back": "A data type that can have one of two values: `True` or `False`. Booleans are used for logical operations in Python.",
+            "tags": [
+                "python",
+                "booleans"
+            ]
+        },
+        {
+            "front": "Conditional Statement",
+            "back": "A statement that performs different actions based on a condition. In Python, conditional statements are written using `if`, `elif`, and `else` keywords.",
+            "tags": [
+                "python",
+                "conditionals"
+            ]
+        },
+        {
+            "front": "Loop",
+            "back": "A control flow statement that allows code to be executed repeatedly. Python supports `for` and `while` loops.",
+            "tags": [
+                "python",
+                "loops"
+            ]
+        },
+        {
+            "front": "Module",
+            "back": "A file containing Python definitions and statements. Modules are used to organize code and make it reusable.",
+            "tags": [
+                "python",
+                "modules"
+            ]
+        },
+        {
+            "front": "Package",
+            "back": "A way of organizing related modules into a directory hierarchy. Packages in Python are used to create a modular and scalable code structure.",
+            "tags": [
+                "python",
+                "packages"
+            ]
+        },
+        {
+            "front": "Exception",
+            "back": "An error that occurs during the execution of a program. Python provides built-in exception handling using `try`, `except`, and `finally` keywords.",
+            "tags": [
+                "python",
+                "exceptions"
+            ]
+        },
+        {
+            "front": "File I/O",
+            "back": "The process of reading from or writing to files. Python provides built-in functions and methods for file input/output operations.",
+            "tags": [
+                "python",
+                "file_io"
+            ]
+        },
+        {
+            "front": "Class",
+            "back": "A blueprint for creating objects. Classes in Python define the properties and behaviors of objects.",
+            "tags": [
+                "python",
+                "classes"
+            ]
+        },
+        {
+            "front": "Object",
+            "back": "An instance of a class. Objects in Python have properties (attributes) and behaviors (methods).",
+            "tags": [
+                "python",
+                "objects"
+            ]
+        },
+        {
+            "front": "Inheritance",
+            "back": "A mechanism that allows a class to inherit properties and behaviors from another class. In Python, inheritance is achieved using the `class` keyword.",
+            "tags": [
+                "python",
+                "inheritance"
+            ]
+        },
+        {
+            "front": "Polymorphism",
+            "back": "The ability of an object to take on many forms. In Python, polymorphism is achieved through method overriding and method overloading.",
+            "tags": [
+                "python",
+                "polymorphism"
+            ]
+        },
+        {
+            "front": "Encapsulation",
+            "back": "The bundling of data and methods that manipulate the data into a single unit. In Python, encapsulation is achieved through classes and access modifiers.",
+            "tags": [
+                "python",
+                "encapsulation"
+            ]
+        },
+        {
+            "front": "Lambda Function",
+            "back": "A small anonymous function that can take any number of arguments but can only have one expression. Lambda functions are defined using the `lambda` keyword.",
+            "tags": [
+                "python",
+                "lambda_functions"
+            ]
+        },
+        {
+            "front": "List Comprehension",
+            "back": "A concise way to create lists based on existing lists. List comprehensions in Python provide a compact syntax for creating new lists.",
+            "tags": [
+                "python",
+                "list_comprehension"
+            ]
+        },
+        {
+            "front": "Generator",
+            "back": "A function that returns an iterator. Generators in Python are used to create iterators in a memory-efficient way.",
+            "tags": [
+                "python",
+                "generators"
+            ]
+        },
+        {
+            "front": "Decorator",
+            "back": "A design pattern that allows behavior to be added to an individual object dynamically. Decorators in Python are implemented using the `@` symbol.",
+            "tags": [
+                "python",
+                "decorators"
+            ]
+        },
+        {
+            "front": "Recursion",
+            "back": "A programming technique where a function calls itself to solve a problem. Recursion in Python is useful for solving problems that can be broken down into smaller subproblems.",
+            "tags": [
+                "python",
+                "recursion"
+            ]
+        },
+        {
+            "front": "Virtual Environment",
+            "back": "A self-contained directory that contains a specific version of Python and its dependencies. Virtual environments in Python are used to isolate project dependencies.",
+            "tags": [
+                "python",
+                "virtual_environment"
+            ]
+        },
+        {
+            "front": "Package Manager",
+            "back": "A tool that automates the process of installing, upgrading, and managing software packages. In Python, `pip` is the default package manager.",
+            "tags": [
+                "python",
+                "package_manager"
+            ]
+        }
+    ]
+}
