@@ -1,0 +1,65 @@
+{
+    "deck_name": "Computer Science Level 2",
+    "deck_id": 987654321,
+    "cards": [
+        {
+            "front": "Metadata",
+            "back": "Data that provides information about other data.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Pointer",
+            "back": "A variable that stores the memory address of another variable.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Recursion",
+            "back": "A programming technique where a function calls itself to solve a problem.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Queue",
+            "back": "A data structure that follows the FIFO (First-In-First-Out) principle.",
+            "tags": [
+                "intermediate_cs",
+                "data_structures"
+            ]
+        },
+        {
+            "front": "Stack",
+            "back": "A data structure that follows the LIFO (Last-In-First-Out) principle.",
+            "tags": [
+                "intermediate_cs",
+                "data_structures"
+            ]
+        },
+        {
+            "front": "TCP/IP",
+            "back": "Transmission Control Protocol/Internet Protocol - the suite of communication protocols used for the internet.",
+            "tags": [
+                "intermediate_cs",
+                "networking"
+            ]
+        },
+        {
+            "front": "XML",
+            "back": "eXtensible Markup Language - a markup language that defines rules for encoding documents.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Big O Notation",
+            "back": "A way of describing the efficiency of an algorithm in terms of the input size.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        }
+    ]
+}

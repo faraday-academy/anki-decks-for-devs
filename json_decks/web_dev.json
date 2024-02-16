@@ -1,0 +1,139 @@
+{
+    "deck_name": "Web Development Basics",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "API",
+            "back": "Application Programming Interface (API) is a set of rules and protocols that allows different software applications to communicate with each other.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "HTTP",
+            "back": "Hypertext Transfer Protocol (HTTP) is an application protocol for transmitting hypermedia documents, such as HTML. It is the foundation of data communication on the World Wide Web.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "URL",
+            "back": "Uniform Resource Locator (URL) is the address used to access a resource on the internet. It consists of a protocol, domain name, and optional path and query parameters.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "HTML",
+            "back": "Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. It defines the structure and content of a webpage.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "CSS",
+            "back": "Cascading Style Sheets (CSS) is a stylesheet language used for describing the look and formatting of a document written in HTML. It defines the visual style of a webpage.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "JavaScript",
+            "back": "JavaScript is a high-level, interpreted programming language that enables interactive web pages and web applications. It adds behavior and interactivity to HTML and CSS.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Responsive Design",
+            "back": "Responsive design is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. It ensures optimal user experience across different devices.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Front-end",
+            "back": "Front-end refers to the client-side of a web application. It involves the user interface, user experience, and interactions that users have with the application.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Back-end",
+            "back": "Back-end refers to the server-side of a web application. It involves the logic, database management, and server operations that power the application.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Database",
+            "back": "A database is an organized collection of data. It stores and manages data in a structured way, allowing for efficient retrieval, modification, and deletion of data.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Client",
+            "back": "A client is a device or software application that requests services or resources from a server. In web development, the client is typically a web browser.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Server",
+            "back": "A server is a computer or system that provides resources, services, or functionality to other computers or clients. In web development, the server hosts and serves web applications.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Front-end Framework",
+            "back": "A front-end framework is a collection of pre-written HTML, CSS, and JavaScript code that helps developers build user interfaces more efficiently. Examples include React, Angular, and Vue.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Back-end Framework",
+            "back": "A back-end framework is a collection of pre-written code and libraries that help developers build server-side applications more efficiently. Examples include Express.js, Django, and Ruby on Rails.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Version Control",
+            "back": "Version control is a system that records changes to a file or set of files over time. It allows multiple people to collaborate on a project and track changes made to the codebase.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Git",
+            "back": "Git is a distributed version control system that allows multiple developers to collaborate on a project. It tracks changes to files and allows for easy branching and merging of code.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Deployment",
+            "back": "Deployment is the process of making a web application available for use. It involves configuring servers, setting up databases, and ensuring the application is accessible to users.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Testing",
+            "back": "Testing is the process of evaluating a system or its components to ensure that it meets specified requirements. In web development, testing helps identify and fix bugs and ensure the application works as expected.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        },
+        {
+            "front": "Debugging",
+            "back": "Debugging is the process of finding and fixing errors or bugs in a software application. It involves identifying the cause of the problem and making the necessary corrections.",
+            "tags": [
+                "web_dev_basics"
+            ]
+        }
+    ]
+}

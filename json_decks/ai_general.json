@@ -1,0 +1,358 @@
+{
+    "deck_name": "AI and ML Basics",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "Artificial Intelligence",
+            "back": "The simulation of human intelligence in machines that are programmed to think and learn like humans.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Machine Learning",
+            "back": "A subset of AI that enables machines to learn and make predictions or take actions without being explicitly programmed.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Neural Network",
+            "back": "A type of ML model inspired by the structure and function of the human brain, consisting of interconnected nodes (neurons) that process and transmit information.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Deep Learning",
+            "back": "A subfield of ML that uses neural networks with multiple layers to learn and extract complex patterns from large amounts of data.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Supervised Learning",
+            "back": "A type of ML where the model is trained on labeled data, with input-output pairs, to make predictions or classify new, unseen data.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Unsupervised Learning",
+            "back": "A type of ML where the model is trained on unlabeled data and learns patterns or structures in the data without explicit guidance.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Reinforcement Learning",
+            "back": "A type of ML where an agent learns to interact with an environment and maximize rewards by taking actions and receiving feedback.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Feature Extraction",
+            "back": "The process of automatically selecting or transforming relevant features from raw data to improve ML model performance.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Overfitting",
+            "back": "When a ML model performs well on the training data but fails to generalize to new, unseen data due to capturing noise or irrelevant patterns.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Underfitting",
+            "back": "When a ML model is too simple to capture the underlying patterns in the data, resulting in poor performance on both training and test data.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Bias",
+            "back": "A systematic error or deviation of predictions made by a ML model from the true values, often due to oversimplification or incomplete data.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Variance",
+            "back": "The variability or spread of predictions made by a ML model for different instances of the same input, often due to overfitting.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Training Set",
+            "back": "The portion of data used to train a ML model by adjusting its parameters or weights to minimize the error between predicted and actual values.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Validation Set",
+            "back": "The portion of data used to evaluate the performance of a ML model during training and tune hyperparameters to prevent overfitting.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Test Set",
+            "back": "The portion of data used to assess the final performance of a ML model after training and hyperparameter tuning, simulating real-world scenarios.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Precision",
+            "back": "The proportion of true positive predictions out of all positive predictions made by a ML model, indicating its accuracy in identifying positive instances.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Recall",
+            "back": "The proportion of true positive predictions out of all actual positive instances in the data, indicating the model's ability to find all positive instances.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "F1 Score",
+            "back": "A metric that combines precision and recall to provide a balanced measure of a ML model's performance, especially in imbalanced datasets.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Bias-Variance Tradeoff",
+            "back": "The relationship between a ML model's bias and variance, where reducing one often leads to an increase in the other, requiring a tradeoff.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Feature Engineering",
+            "back": "The process of creating new features or transforming existing ones to improve the performance of a ML model.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Ensemble Learning",
+            "back": "A technique that combines multiple ML models to make predictions or decisions, often resulting in better performance than individual models.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Bias Neuron",
+            "back": "A special neuron in a neural network that always outputs a constant value, typically 1, to introduce a bias or offset in the model's predictions.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Activation Function",
+            "back": "A mathematical function applied to the output of a neuron in a neural network to introduce non-linearity and enable complex mappings.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Loss Function",
+            "back": "A function that measures the error or discrepancy between predicted and actual values in a ML model, used to optimize the model's parameters.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Gradient Descent",
+            "back": "An optimization algorithm used to minimize the loss function by iteratively adjusting the model's parameters in the direction of steepest descent.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Backpropagation",
+            "back": "An algorithm used to train neural networks by propagating the error backwards from the output layer to adjust the weights of the neurons.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Regularization",
+            "back": "A technique used to prevent overfitting in ML models by adding a penalty term to the loss function, often based on the model's complexity.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Dropout",
+            "back": "A regularization technique used in neural networks to randomly deactivate some neurons during training to prevent co-adaptation of features.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Batch Normalization",
+            "back": "A technique used to improve the training of neural networks by normalizing the input of each layer to have zero mean and unit variance.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Transfer Learning",
+            "back": "A technique where a pre-trained model is used as the starting point for a new model, often resulting in faster training and better performance.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Hyperparameter",
+            "back": "A parameter whose value is set before the training process of a ML model, such as the learning rate or the number of hidden layers in a neural network.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Grid Search",
+            "back": "A technique used to find the best combination of hyperparameters for a ML model by exhaustively searching through a specified subset of all possible values.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Cross-Validation",
+            "back": "A technique used to assess the performance of a ML model by splitting the data into multiple subsets and training/evaluating the model on different combinations.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Confusion Matrix",
+            "back": "A table used to describe the performance of a classification model by comparing predicted and actual values, often used to calculate precision and recall.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "ROC Curve",
+            "back": "A graphical plot that illustrates the diagnostic ability of a binary classification model across different threshold values, showing the tradeoff between true positive and false positive rates.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "AUC-ROC",
+            "back": "The area under the ROC curve, used as a single-value metric to summarize the performance of a binary classification model across different threshold values.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Precision-Recall Curve",
+            "back": "A graphical plot that illustrates the tradeoff between precision and recall for different threshold values in a binary classification model.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "AUC-PR",
+            "back": "The area under the precision-recall curve, used as a single-value metric to summarize the performance of a binary classification model across different threshold values.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Feature Importance",
+            "back": "A technique used to assess the contribution of each feature in a ML model to make predictions or decisions, often used for interpretability.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Shapley Values",
+            "back": "A technique used to explain the output of a ML model by assigning each feature an importance value based on its contribution to the model's predictions.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "LIME",
+            "back": "A technique used to explain the output of a ML model by approximating its predictions with an interpretable model, such as a linear regression.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Fairness",
+            "back": "The absence of bias or discrimination in the predictions or decisions made by a ML model, often assessed across different subgroups in the data.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Explainability",
+            "back": "The ability to explain the predictions or decisions made by a ML model in a human-interpretable way, often used for trust and transparency.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        },
+        {
+            "front": "Ethics",
+            "back": "The moral principles or guidelines that govern the development and use of AI and ML technologies, often related to fairness, accountability, and transparency.",
+            "tags": [
+                "ai",
+                "ml"
+            ]
+        }
+    ]
+}

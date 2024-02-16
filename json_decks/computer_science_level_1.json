@@ -81,7 +81,7 @@
         },
         {
             "front": "Function",
-            "back": "A piece of code that can be called over and over.",
+            "back": "A piece of code that can be called over and over. It can take input and produce output. It can also be given a name, allowing it to be called from other parts of a program.",
             "tags": [
                 "basic_cs"
             ]
@@ -94,8 +94,15 @@
             ]
         },
         {
-            "front": "Integer",
-            "back": "A whole number; a number that is not a fraction.",
+            "front": "Encryption",
+            "back": "The process of converting information into a secret code to prevent unauthorized access.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "GUI",
+            "back": "Graphical User Interface - a visual way for users to interact with a computer program.",
             "tags": [
                 "basic_cs"
             ]
@@ -115,24 +122,18 @@
             ]
         },
         {
-            "front": "Pointer",
-            "back": "A programming language object that stores the memory address of another value located in computer memory.",
-            "tags": [
-                "basic_cs"
-            ]
-        },
-        {
-            "front": "Recursion",
-            "back": "A programming technique where a function calls itself.",
-            "tags": [
-                "basic_cs"
-            ]
-        },
-        {
             "front": "Software",
             "back": "A collection of instructions that enable the user to interact with a computer, its hardware, or perform tasks.",
             "tags": [
                 "basic_cs"
+            ]
+        },
+        {
+            "front": "Network",
+            "back": "A collection of interconnected devices and systems that can communicate with each other.",
+            "tags": [
+                "basic_cs",
+                "networking"
             ]
         },
         {
@@ -147,6 +148,50 @@
             "back": "A storage location and an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value.",
             "tags": [
                 "basic_cs"
+            ]
+        },
+        {
+            "front": "Web Server",
+            "back": "A computer system that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Data Structure",
+            "back": "A particular way of organizing data in a computer so that it can be used effectively.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Database",
+            "back": "An organized collection of data, generally stored and accessed electronically from a computer system.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "String",
+            "back": "A sequence of characters, either as a literal constant or as some kind of variable.",
+            "tags": [
+                "basic_cs",
+                "data_types"
+            ]
+        },
+        {
+            "front": "Whitespace",
+            "back": "Any character or sequence of characters that represents horizontal or vertical space.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Integer",
+            "back": "A whole number; a number that is not a fraction.",
+            "tags": [
+                "basic_cs",
+                "data_types"
             ]
         },
         {
@@ -173,6 +218,27 @@
         {
             "front": "Array",
             "back": "A data structure consisting of a collection of elements, each identified by at least one array index or key.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "JSON",
+            "back": "JavaScript Object Notation - a lightweight data interchange format.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Operating System",
+            "back": "The software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.",
+            "tags": [
+                "basic_cs"
+            ]
+        },
+        {
+            "front": "Kernel",
+            "back": "The core component of an operating system that manages system resources.",
             "tags": [
                 "basic_cs"
             ]
@@ -229,13 +295,6 @@
         {
             "front": "Recursion",
             "back": "The process in which a function calls itself directly or indirectly.",
-            "tags": [
-                "basic_cs"
-            ]
-        },
-        {
-            "front": "Syntax",
-            "back": "The set of rules that defines the combinations of symbols that are considered to be correctly structured programs in that language.",
             "tags": [
                 "basic_cs"
             ]
