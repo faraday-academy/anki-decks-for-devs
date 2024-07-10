@@ -1,1 +1,166 @@
-
+{
+    "deck_name": "Math Terms for Devs",
+    "deck_id": 123456789,
+    "cards": [
+        {
+            "front": "Cartesian Product",
+            "back": "The Cartesian Product of two sets A and B is the set of all ordered pairs (a, b) where a is in A and b is in B. Use case: Cartesian products are used in database queries to combine rows from two or more tables.",
+            "tags": [
+                "set_theory",
+                "databases"
+            ]
+        },
+        {
+            "front": "Matrix Multiplication",
+            "back": "A mathematical operation that takes two matrices and produces another matrix. Use case: Matrix multiplication is used in computer graphics transformations and neural network calculations.",
+            "tags": [
+                "linear_algebra",
+                "algorithms"
+            ]
+        },
+        {
+            "front": "Dot Product",
+            "back": "An algebraic operation that takes two equal-length sequences of numbers and returns a single number. Use case: Dot products are used in vector mathematics, machine learning algorithms, and computer graphics.",
+            "tags": [
+                "linear_algebra",
+                "machine_learning"
+            ]
+        },
+        {
+            "front": "Euclidean Distance",
+            "back": "The straight-line distance between two points in Euclidean space. Use case: Euclidean distance is used in clustering algorithms and similarity measures in machine learning.",
+            "tags": [
+                "geometry",
+                "machine_learning"
+            ]
+        },
+        {
+            "front": "Eigenvalues and Eigenvectors",
+            "back": "In linear algebra, eigenvalues are scalars associated with a linear system of equations, and eigenvectors are the corresponding vectors. Use case: Eigenvalues and eigenvectors are used in principal component analysis (PCA) and other dimensionality reduction techniques.",
+            "tags": [
+                "linear_algebra",
+                "dimensionality_reduction"
+            ]
+        },
+        {
+            "front": "Fourier Transform",
+            "back": "A mathematical transform that decomposes functions into their constituent frequencies. Use case: Fourier transforms are used in signal processing, image analysis, and solving partial differential equations.",
+            "tags": [
+                "signal_processing",
+                "transforms"
+            ]
+        },
+        {
+            "front": "Gradient",
+            "back": "A vector that points in the direction of the greatest rate of increase of a function. Use case: Gradients are used in optimization algorithms such as gradient descent.",
+            "tags": [
+                "calculus",
+                "optimization"
+            ]
+        },
+        {
+            "front": "Logarithm",
+            "back": "The logarithm of a number is the exponent to which another fixed number, the base, must be raised to produce that number. Use case: Logarithms are used in complexity analysis of algorithms and in scaling data.",
+            "tags": [
+                "algebra",
+                "complexity_analysis"
+            ]
+        },
+        {
+            "front": "Probability Distribution",
+            "back": "A function that describes the likelihood of obtaining the possible values that a random variable can take. Use case: Probability distributions are used in statistics, machine learning, and risk assessment.",
+            "tags": [
+                "statistics",
+                "machine_learning"
+            ]
+        },
+        {
+            "front": "Bayesian Inference",
+            "back": "A method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. Use case: Bayesian inference is used in machine learning, decision making, and risk assessment.",
+            "tags": [
+                "statistics",
+                "machine_learning"
+            ]
+        },
+        {
+            "front": "Standard Deviation",
+            "back": "A measure of the amount of variation or dispersion in a set of values. Use case: Standard deviation is used in statistics to understand the spread of data points.",
+            "tags": [
+                "statistics",
+                "data_analysis"
+            ]
+        },
+        {
+            "front": "Linear Regression",
+            "back": "A linear approach to modeling the relationship between a dependent variable and one or more independent variables. Use case: Linear regression is used in predictive modeling and data analysis.",
+            "tags": [
+                "statistics",
+                "machine_learning"
+            ]
+        },
+        {
+            "front": "Pythagorean Theorem",
+            "back": "A fundamental relation in Euclidean geometry among the three sides of a right triangle. Use case: The Pythagorean theorem is used in geometry, physics, and computer graphics.",
+            "tags": [
+                "geometry",
+                "theorems"
+            ]
+        },
+        {
+            "front": "Combinatorics",
+            "back": "The branch of mathematics dealing with combinations, permutations, and counting. Use case: Combinatorics is used in algorithm design, probability theory, and cryptography.",
+            "tags": [
+                "discrete_math",
+                "algorithms"
+            ]
+        },
+        {
+            "front": "Graph Theory",
+            "back": "The study of graphs, which are mathematical structures used to model pairwise relations between objects. Use case: Graph theory is used in network analysis, computer science, and logistics.",
+            "tags": [
+                "discrete_math",
+                "algorithms"
+            ]
+        },
+        {
+            "front": "Prime Number",
+            "back": "A natural number greater than 1 that has no positive divisors other than 1 and itself. Use case: Prime numbers are used in cryptography, number theory, and computer algorithms.",
+            "tags": [
+                "number_theory",
+                "cryptography"
+            ]
+        },
+        {
+            "front": "Greatest Common Divisor (GCD)",
+            "back": "The largest positive integer that divides each of the integers without leaving a remainder. Use case: GCD is used in simplifying fractions, cryptography, and algorithm design.",
+            "tags": [
+                "number_theory",
+                "algorithms"
+            ]
+        },
+        {
+            "front": "Least Common Multiple (LCM)",
+            "back": "The smallest positive integer that is divisible by both of the integers. Use case: LCM is used in scheduling problems, cryptography, and algorithm design.",
+            "tags": [
+                "number_theory",
+                "algorithms"
+            ]
+        },
+        {
+            "front": "Complex Numbers",
+            "back": "Numbers that have both a real part and an imaginary part. Use case: Complex numbers are used in signal processing, control theory, and fluid dynamics.",
+            "tags": [
+                "algebra",
+                "advanced_math"
+            ]
+        },
+        {
+            "front": "Set Theory",
+            "back": "The branch of mathematical logic that studies sets, which are collections of objects. Use case: Set theory is foundational for many areas of mathematics, including logic, algebra, and topology.",
+            "tags": [
+                "set_theory",
+                "foundations_of_math"
+            ]
+        }
+    ]
+}
