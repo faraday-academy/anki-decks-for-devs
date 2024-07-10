@@ -95,6 +95,24 @@
             "tags": [
                 "intermediate_cs"
             ]
+        },
+        {
+            "front": "State Machine",
+            "back": "A computational model used to design algorithms, which consists of a set of states, transitions between states, and actions. Use case: State machines are used to model systems with a limited number of specific states, such as vending machines or user interfaces.",
+            "tags": [
+                "intermediate_cs",
+                "algorithms",
+                "design_patterns"
+            ]
+        },
+        {
+            "front": "Finite State Machine",
+            "back": "A type of state machine with a finite number of states, transitions between those states, and actions. Use case: Finite state machines are used to design control systems, parsers, and user input handling systems.",
+            "tags": [
+                "intermediate_cs",
+                "algorithms",
+                "design_patterns"
+            ]
         }
     ]
 }
