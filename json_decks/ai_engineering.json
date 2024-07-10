@@ -228,14 +228,6 @@
             ]
         },
         {
-            "front": "GPT-3",
-            "back": "The third generation of OpenAI's Generative Pre-trained Transformer, known for its large scale and capability to perform a variety of NLP tasks. Use case: GPT-3 is used for language translation, question answering, and creative writing.",
-            "tags": [
-                "language_models",
-                "generative_models"
-            ]
-        },
-        {
             "front": "DistilBERT",
             "back": "A smaller, faster, cheaper version of BERT that retains 97% of BERT's language understanding while being lighter. Use case: DistilBERT is used for efficient NLP applications where model size and speed are critical.",
             "tags": [
