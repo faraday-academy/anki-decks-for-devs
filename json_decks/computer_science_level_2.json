@@ -60,6 +60,41 @@
             "tags": [
                 "intermediate_cs"
             ]
+        },
+        {
+            "front": "Static Method",
+            "back": "A method that doesn't modify the state of the class or the instance it belongs to. These are often used for utility or helper methods and can be accessed on the class.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Class Method",
+            "back": "A method that modifies the state of the class it belongs to, rather than an instance. It takes 'cls' as the first parameter and can be accessed on the class. These are often used for factory methods or methods that affect the class as a whole.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Instance Method",
+            "back": "A method that operates on an instance of the class and can access and modify the instance's state. It takes 'self' as the first parameter and can be accessed on the instance. Use case: Instance methods are used to manipulate the data of a specific object.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Property Method",
+            "back": "A method that acts like an attribute, allowing customized access to instance variables. It is used to define getters, setters, and deleters using the '@property' decorator and related decorators. Use case: Property methods are used to control access to instance variables, providing a way to add validation logic.",
+            "tags": [
+                "intermediate_cs"
+            ]
+        },
+        {
+            "front": "Abstract Method",
+            "back": "A method declared in an abstract class using the '@abstractmethod' decorator. It must be implemented by any subclass that inherits from the abstract class. Use case: Abstract methods are used to define a common interface for all subclasses, enforcing a contract that the subclasses must follow.",
+            "tags": [
+                "intermediate_cs"
+            ]
         }
     ]
 }
