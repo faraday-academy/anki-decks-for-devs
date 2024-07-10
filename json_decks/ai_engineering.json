@@ -1,1 +1,167 @@
 
+{
+    "deck_name": "AI Engineering Level 1",
+    "deck_id": 987654322,
+    "cards": [
+        {
+            "front": "Large Language Model (LLM)",
+            "back": "A type of AI model trained on vast amounts of text data to understand and generate human language. Use case: LLMs are used in chatbots, content creation, and language translation.",
+            "tags": [
+                "natural_language_processing",
+                "deep_learning"
+            ]
+        },
+        {
+            "front": "Completion",
+            "back": "The process of generating text to complete a given prompt based on learned patterns. Use case: Completion is used in predictive text, code auto-completion, and AI writing assistants.",
+            "tags": [
+                "natural_language_processing",
+                "text_generation"
+            ]
+        },
+        {
+            "front": "Transformer",
+            "back": "A deep learning architecture that uses self-attention mechanisms to process input sequences in parallel. Use case: Transformers are used in natural language processing tasks like translation and summarization.",
+            "tags": [
+                "deep_learning",
+                "architectures"
+            ]
+        },
+        {
+            "front": "Embedding",
+            "back": "A representation of data in a lower-dimensional space, capturing the semantic meaning of the data. Use case: Embeddings are used in natural language processing to represent words, sentences, or documents.",
+            "tags": [
+                "natural_language_processing",
+                "representation"
+            ]
+        },
+        {
+            "front": "Tokenization",
+            "back": "The process of splitting text into smaller pieces, such as words or subwords, for processing by a model. Use case: Tokenization is a fundamental step in preparing text data for natural language processing tasks.",
+            "tags": [
+                "natural_language_processing",
+                "preprocessing"
+            ]
+        },
+        {
+            "front": "Self-Attention",
+            "back": "A mechanism that allows a model to weigh the importance of different parts of the input data. Use case: Self-attention is crucial in transformer models for understanding context.",
+            "tags": [
+                "deep_learning",
+                "mechanisms"
+            ]
+        },
+        {
+            "front": "Fine-Tuning",
+            "back": "The process of taking a pre-trained model and training it further on a specific task. Use case: Fine-tuning is used to adapt general models to specific applications.",
+            "tags": [
+                "model_training",
+                "customization"
+            ]
+        },
+        {
+            "front": "Zero-Shot Learning",
+            "back": "A model's ability to handle tasks it has not been explicitly trained on by leveraging general knowledge. Use case: Zero-shot learning is used in scenarios where labeled data is scarce.",
+            "tags": [
+                "learning_methods",
+                "generalization"
+            ]
+        },
+        {
+            "front": "Prompt Engineering",
+            "back": "The process of designing and refining prompts to elicit the best possible responses from a model. Use case: Prompt engineering is critical for optimizing the performance of language models.",
+            "tags": [
+                "model_interaction",
+                "optimization"
+            ]
+        },
+        {
+            "front": "Generative Adversarial Network (GAN)",
+            "back": "A class of machine learning frameworks where two neural networks contest with each other to generate new data. Use case: GANs are used for generating realistic images, videos, and audio.",
+            "tags": [
+                "generative_models",
+                "adversarial_learning"
+            ]
+        },
+        {
+            "front": "Recurrent Neural Network (RNN)",
+            "back": "A type of neural network designed for sequential data, where connections between nodes form a directed graph along a sequence. Use case: RNNs are used in language modeling and time-series prediction.",
+            "tags": [
+                "neural_networks",
+                "sequential_data"
+            ]
+        },
+        {
+            "front": "BERT (Bidirectional Encoder Representations from Transformers)",
+            "back": "A pre-trained transformer-based model designed to understand the context of a word in search queries. Use case: BERT is used in tasks like question answering and text classification.",
+            "tags": [
+                "pretrained_models",
+                "contextual_models"
+            ]
+        },
+        {
+            "front": "Hyperparameter Optimization",
+            "back": "The process of tuning the hyperparameters of a model to improve its performance. Use case: Hyperparameter optimization is crucial for enhancing model accuracy and efficiency.",
+            "tags": [
+                "model_training",
+                "optimization"
+            ]
+        },
+        {
+            "front": "Attention Mechanism",
+            "back": "A component of neural networks that dynamically focuses on relevant parts of the input. Use case: Attention mechanisms are used to improve the performance of models on tasks like translation and summarization.",
+            "tags": [
+                "mechanisms",
+                "enhancements"
+            ]
+        },
+        {
+            "front": "Autoencoder",
+            "back": "A type of neural network used to learn efficient codings of input data, typically for the purpose of dimensionality reduction or feature learning. Use case: Autoencoders are used in anomaly detection and image denoising.",
+            "tags": [
+                "representation_learning",
+                "dimensionality_reduction"
+            ]
+        },
+        {
+            "front": "Beam Search",
+            "back": "An algorithm that explores a graph by expanding the most promising node in a limited set. Use case: Beam search is used in sequence generation tasks such as machine translation and speech recognition.",
+            "tags": [
+                "search_algorithms",
+                "sequence_generation"
+            ]
+        },
+        {
+            "front": "Sentence Embedding",
+            "back": "A dense vector representation of a sentence, capturing its semantic meaning. Use case: Sentence embeddings are used in tasks like semantic similarity and information retrieval.",
+            "tags": [
+                "representation",
+                "semantic_analysis"
+            ]
+        },
+        {
+            "front": "Transfer Learning",
+            "back": "A technique where a pre-trained model is adapted to a new, but related task. Use case: Transfer learning is used to improve performance on tasks with limited data.",
+            "tags": [
+                "model_training",
+                "adaptation"
+            ]
+        },
+        {
+            "front": "Data Augmentation",
+            "back": "A technique to increase the diversity of training data by applying random transformations. Use case: Data augmentation is used to improve model generalization and prevent overfitting.",
+            "tags": [
+                "data_preprocessing",
+                "model_training"
+            ]
+        },
+        {
+            "front": "Model Pruning",
+            "back": "The process of removing unnecessary parameters from a neural network to reduce its size and increase inference speed. Use case: Model pruning is used to deploy efficient models on resource-constrained devices.",
+            "tags": [
+                "model_optimization",
+                "efficiency"
+            ]
+        }
+    ]
+}
