@@ -162,6 +162,86 @@
                 "model_optimization",
                 "efficiency"
             ]
+        },
+        {
+            "front": "GPT (Generative Pre-trained Transformer)",
+            "back": "A state-of-the-art language model developed by OpenAI that generates human-like text based on a given prompt. Use case: GPT is used in chatbots, content creation, and text completion.",
+            "tags": [
+                "language_models",
+                "generative_models"
+            ]
+        },
+        {
+            "front": "Claude",
+            "back": "An AI assistant developed by Anthropic focused on providing safe and interpretable outputs. Use case: Claude is used for conversational AI and providing detailed, safe responses in various applications.",
+            "tags": [
+                "language_models",
+                "ai_assistants"
+            ]
+        },
+        {
+            "front": "T5 (Text-to-Text Transfer Transformer)",
+            "back": "A model developed by Google that treats every NLP problem as a text-to-text task. Use case: T5 is used for translation, summarization, and question answering.",
+            "tags": [
+                "language_models",
+                "text_generation"
+            ]
+        },
+        {
+            "front": "BERT (Bidirectional Encoder Representations from Transformers)",
+            "back": "A pre-trained transformer-based model designed to understand the context of a word in search queries. Use case: BERT is used in tasks like question answering and text classification.",
+            "tags": [
+                "pretrained_models",
+                "contextual_models"
+            ]
+        },
+        {
+            "front": "RoBERTa (Robustly Optimized BERT Pretraining Approach)",
+            "back": "An optimized version of BERT by Facebook AI, designed to improve on the original BERT with more robust training. Use case: RoBERTa is used in NLP tasks requiring deep contextual understanding.",
+            "tags": [
+                "pretrained_models",
+                "contextual_models"
+            ]
+        },
+        {
+            "front": "XLNet",
+            "back": "A generalized autoregressive pretraining method that captures bidirectional context. Use case: XLNet is used for natural language understanding tasks like sentiment analysis and text classification.",
+            "tags": [
+                "language_models",
+                "autoregressive_models"
+            ]
+        },
+        {
+            "front": "ERNIE (Enhanced Representation through Knowledge Integration)",
+            "back": "A language model developed by Baidu that incorporates knowledge graphs for better language understanding. Use case: ERNIE is used in NLP tasks that benefit from integrating world knowledge.",
+            "tags": [
+                "language_models",
+                "knowledge_graphs"
+            ]
+        },
+        {
+            "front": "Albert (A Lite BERT)",
+            "back": "A lighter and faster version of BERT with parameter sharing to reduce model size. Use case: Albert is used for NLP tasks in environments with limited computational resources.",
+            "tags": [
+                "pretrained_models",
+                "efficient_models"
+            ]
+        },
+        {
+            "front": "GPT-3",
+            "back": "The third generation of OpenAI's Generative Pre-trained Transformer, known for its large scale and capability to perform a variety of NLP tasks. Use case: GPT-3 is used for language translation, question answering, and creative writing.",
+            "tags": [
+                "language_models",
+                "generative_models"
+            ]
+        },
+        {
+            "front": "DistilBERT",
+            "back": "A smaller, faster, cheaper version of BERT that retains 97% of BERT's language understanding while being lighter. Use case: DistilBERT is used for efficient NLP applications where model size and speed are critical.",
+            "tags": [
+                "pretrained_models",
+                "efficient_models"
+            ]
         }
     ]
 }
