@@ -113,6 +113,86 @@
                 "algorithms",
                 "design_patterns"
             ]
+        },
+        {
+            "front": "Finite State Machine",
+            "back": "A type of state machine with a finite number of states, transitions between those states, and actions. Use case: Finite state machines are used to design control systems, parsers, and user input handling systems.",
+            "tags": [
+                "intermediate_cs",
+                "algorithms",
+                "design_patterns"
+            ]
+        },
+        {
+            "front": "Finite State Machine",
+            "back": "A type of state machine with a finite number of states, transitions between those states, and actions. Use case: Finite state machines are used to design control systems, parsers, and user input handling systems.",
+            "tags": [
+                "intermediate_cs",
+                "algorithms",
+                "design_patterns"
+            ]
+        },
+        {
+            "front": "Subroutine",
+            "back": "A subroutine is a small section of a program that performs a specific task. You can think of it like a recipe for one dish in a cookbook. Instead of writing the same instructions multiple times, you write them once as a subroutine and use it whenever needed. Example: A subroutine might add two numbers together and return the result.",
+            "tags": [
+                "intermediate_cs",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Coroutine",
+            "back": "A coroutine is similar to a subroutine, but with one key difference: it can pause its work and come back to it later. Think of it like a person juggling multiple tasks, switching between them without finishing one completely before moving to the next. Example: A coroutine could handle user input in a game, pausing to wait for the next key press before continuing.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Concurrency",
+            "back": "Concurrency is when multiple tasks are executed at the same time, but not necessarily simultaneously. It's like cooking different parts of a meal at the same time, switching between tasks to make sure everything is ready together. Example: Handling multiple web requests at the same time on a server is a common use of concurrency.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Thread",
+            "back": "A thread is the smallest unit of a program that can run independently. Think of it as a single worker in a factory, doing one specific job. Example: In a web browser, one thread might be responsible for rendering the page while another handles user input.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Asynchronous Programming",
+            "back": "Asynchronous programming allows tasks to run separately from the main program flow, without waiting for other tasks to complete. It's like sending out invitations and continuing to plan a party while waiting for RSVPs to come in. Example: An app might download data from the internet in the background while you continue to use other features.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Mutex",
+            "back": "A mutex (short for mutual exclusion) is a tool used in programming to prevent multiple threads from accessing the same resource at the same time. It's like a key to a room; only one person can use the key to enter the room at a time, ensuring no one else can come in until the key is available again. Example: A mutex might be used to control access to a shared variable in a multi-threaded program.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
+        },
+        {
+            "front": "Event Loop",
+            "back": "An event loop is a programming structure that waits for and dispatches events or messages in a program. It works like a receptionist, waiting for tasks to come in and directing them to the right person. Example: In a web server, the event loop waits for incoming requests and processes them one by one.",
+            "tags": [
+                "intermediate_cs",
+                "concurrency",
+                "programming_concepts"
+            ]
         }
     ]
 }
